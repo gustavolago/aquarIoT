@@ -53,10 +53,9 @@ unsigned long previousAlimentar = 0;
 // Wifi ////////////////////////////////////////////////////////////////////////////
 #include <WiFi.h>
 //#include <WebServer.h>
-const char* ssid = "Megaptera_2G";
-const char* pass = "Baleia@01";
-//const char* ssid = "Eventos";
-//const char* pass = "01022020";
+const char* ssid = "ssid wifi";
+const char* pass = "senha";
+
 // WIFI *****************************************************************************
 
 // NTPClient ////////////////////////////////////////////////////////////////////////
